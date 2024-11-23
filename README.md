@@ -170,7 +170,7 @@ Program terus berjalan hingga pengguna memilih menu Keluar (6).
 Program ini cocok digunakan untuk latihan pengelolaan data menggunakan dictionary dan manipulasi data berbasis teks.
 
 # Flowchart Pratikum 5
-[Foto]!()
+![Foto](https://github.com/nanafnan09/Pratikum-5/blob/12560e75979712f7565a712e496a792fa913cc87/FLOWCHART%20PRATIKUM-5.png)
 
 
 
